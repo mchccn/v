@@ -55,10 +55,13 @@ console.log(v4gu3.r3m0veNumb3rs("S0mt1mes str1ngs ar3 t0o v4gu3 and c4n't b3 re4
 V4gu3 offers thr3e ma1n m3th0ds to un-v4gu3 str1ngs:
 
 `v4gu3.r3m0veNumb3rs` – Removes numbers.
+
 `v4gu3.r3m0veSymb0ls` – Removes special symbols.
+
 `v4gu3.r3m0veUn1c0de` – Removes more obscure unicode characters.
 
 It als0 c0nta1ns s0m3 h3lp3r m3th0ds:
 
 `v4gu3.f1lt3r` – Applies all filters. The second parameter is an options object where you can disable some if you would like.
+
 `v4gu3.f1nd` – Returns a boolean if the second parameter was found in the first.
